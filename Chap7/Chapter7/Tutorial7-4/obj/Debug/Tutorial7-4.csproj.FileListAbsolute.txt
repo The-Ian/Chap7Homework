@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\bin\Debug\Tutorial7-4.exe.config
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\bin\Debug\Tutorial7-4.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\bin\Debug\Tutorial7-4.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7-4.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7_4.Form1.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7_4.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7-4.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7-4.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7-4.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter7\Tutorial7-4\obj\Debug\Tutorial7-4.pdb
